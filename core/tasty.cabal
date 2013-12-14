@@ -45,7 +45,7 @@ library
     containers,
     mtl,
     tagged >= 0.5,
-    regex-posix,
+    regex-tdfa,
     optparse-applicative >= 0.6,
     deepseq >= 1.3
 

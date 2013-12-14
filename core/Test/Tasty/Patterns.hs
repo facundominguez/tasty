@@ -39,8 +39,7 @@ module Test.Tasty.Patterns
 
 import Test.Tasty.Options
 
-import Text.Regex.Posix.Wrap
-import Text.Regex.Posix.String()
+import Text.Regex.TDFA
 
 import Data.List
 import Data.Typeable
